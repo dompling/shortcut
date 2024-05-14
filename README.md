@@ -2,7 +2,7 @@
 
 | 快捷指令              | 说明                       | 版本  | 安装                                                                                                                                               |
 |-------------------|--------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 联系人随机头像           | [使用说明](#联系人随机头像)         | 1.0 | [下载](https://www.icloud.com/shortcuts/d660399dacc747d19bb763f999655d14)                                                                          |
+| 联系人随机头像           | [使用说明](#联系人随机头像)         | 1.0 | [下载](https://www.icloud.com/shortcuts/9ac175779bf54da1af0f7729d8284dd9)                                                                          |
 | Surge 模块管理器       | [使用说明](#Surge-模块管理器)     | 1.2 | [下载](https://www.icloud.com/shortcuts/94f4aaa8dbe04d5cbadfa5cbe8b996b0)                                                                          |
 | Surge 模块管理器（无依赖版） | [使用说明](#surge-模块管理器无依赖版) | 1.0 | [下载](https://www.icloud.com/shortcuts/29ea8f013203449cb31c3702f68600ae)                                                                          |
 | Git仓库管理           | [使用说明](#git仓库管理)         | 1.0 | [下载](https://www.icloud.com/shortcuts/7d349e2fc76c4d0cb53a8c03f065763c)、 [依赖](https://www.icloud.com/shortcuts/080382413cd34c31b41cd3ac871e1e88) |
